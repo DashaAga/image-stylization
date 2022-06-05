@@ -1,2 +1,2 @@
 # image-stylization
-### There is performing image styling using packages Keras and Tensorflow.
+### Here is a program for stylizing images based on Keras and Tensorflow.
