@@ -1,2 +1,2 @@
 # image-stylization
-We perform image styling using packages Keras and Tensorflow.
+### There is performing image styling using packages Keras and Tensorflow.
